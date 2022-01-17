@@ -1,3 +1,3 @@
 # ImageGetter
 
-A description of this package.
+A Swift Package from SPM for retrieving images asynchronously in SwiftUI views.
